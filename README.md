@@ -18,5 +18,5 @@ OMDb API or TMDb API
 
 📦 Installation
 1. Clone the repo
-git clone https://github.com/Adarsh0074/imdb-clone-react.git
+git clone https://github.com/Akhiil222/imdb-clone-react.git
 cd imdb-clone-react
