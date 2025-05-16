@@ -14,7 +14,7 @@ JavaScript (ES6+)
 HTML & CSS
 OMDb API or TMDb API
 🌐 Live Demo
-🔗 Live Site
+https://i-mdb.vercel.app/
 
 📦 Installation
 1. Clone the repo
